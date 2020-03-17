@@ -42,7 +42,7 @@
     </dependencies>
   <distributionManagement>
   <repository>
-    <id>hackathon</id>
+    <id>nexus</id>
     <url>http://3.92.33.234:8081/nexus/content/repositories/hackathon</url>
   </repository>
 </distributionManagement>
